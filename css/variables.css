@@ -1,6 +1,6 @@
 :root{
     --colorMain:black;
-    --colorBGmain:white;
+    --colorBGmain:#FDFDFD;
     
-    -- font-main: arial, sans-serif;
+    --font-Main: Arial, sans-serif;
 }
